@@ -1,6 +1,5 @@
-# REGRESSION
-Basic regression Practice problems
-# Simple Linear Regression Project 
+# Linear Rregression
+Basic Regression Practice problems 
 
 
 ## Modelling the linear relationship between Sales and Advertising Dataset
