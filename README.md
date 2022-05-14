@@ -1,4 +1,4 @@
-# Linear Rregression
+# Linear Regression
 Basic Regression Practice problems 
 
 
